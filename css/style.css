@@ -287,14 +287,7 @@ body::after {
     opacity: 0.9;
   }
 }
-.countdown span {
-  font-size: 1.4rem;
 
-}
-.countdown small {
-  font-size: 0.65rem;
-  letter-spacing: 1px;
-}
 /* TEXTOS */
 /* Estilo para el texto del código de vestimenta */
 .dress-code-text {
